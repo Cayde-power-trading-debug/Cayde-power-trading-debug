@@ -1,35 +1,27 @@
-# 👋 Hi, I'm Cayde
+# 👋 你好，我是凯德
 
-电力交易数据分析工程师 · 北京。专注广西电力市场：现货 / 中长期 / 结算策略的量化分析与工具开发。
+电力交易数据分析工程师 · 北京。聚焦广西电力市场，围绕**机器学习、量化分析与结算策略**开展数据建模和工具研发。
 
-> Power-trading data analyst based in Guangzhou, China. I build tools for electricity-market analysis (spot, medium/long-term, settlement) and general engineering.
+> Beijing-based power-market data analyst focused on the Guangxi electricity market. I work on machine learning, quantitative analysis, and settlement-strategy tooling.
 
 ---
 
-## 📦 开源项目
+## ⚡ 开源项目
 
-### ⚡ 电力交易工具
+### 电力市场量化与结算
 
 | 项目 | 说明 | 在线试用 |
 |---|---|---|
-| [**three-part-settlement**](https://github.com/16668596613-debug/three-part-settlement) | 批发交易用户「三部制结算」电费计算器：电度 / 基本 / 力调电费拆分核算，单文件 HTML，本地运行零上传 | [🚀 立即打开](https://16668596613-debug.github.io/three-part-settlement/) |
-
-### 🛠️ 工程通用工具
-
-| 项目 | 说明 |
-|---|---|
-| [**model-sidecar**](https://github.com/16668596613-debug/model-sidecar) | 在同一应用里运行互斥的模型版本：每个模型跑在自己的私有解释器里，JSON over stdin/stdout 通信，零依赖、PyInstaller 可用 |
-
-> 🔭 更多工具整理中（气象数据查看器等）。
+| [**three-part-settlement**](https://github.com/16668596613-debug/three-part-settlement) | 面向批发交易用户的三部制电费核算工具，覆盖电度、基本与力调电费的拆分计算，服务于结算分析与量化核算。 | [🚀 立即打开](https://16668596613-debug.github.io/three-part-settlement/) |
 
 ---
 
-## 🧭 关于这些项目
+## 🧭 关注方向
 
-- 全部数据 **本地计算、零上传**，不涉及任何客户或凭证信息；
-- 工具均以「单文件 / 零依赖」为原则，拿到即可用；
-- 电力结算规则以所在省现行政策为准，工具仅做计算、不构成交易依据。
+- 电力市场机器学习与时间序列预测
+- 现货、中长期与结算环节的量化分析
+- 三部制结算与用电成本核算
 
 ---
 
-*主题标签：`electricity` · `power-settlement` · `electricity-trading` · `time-series` · `model-isolation`*
+*主题标签：`electricity-market` · `machine-learning` · `quantitative-analysis` · `power-settlement`*
