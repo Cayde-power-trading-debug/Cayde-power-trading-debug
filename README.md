@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cayde
 
-电力交易数据分析工程师 · 广州。专注广西电力市场：现货 / 中长期 / 结算策略的量化分析与工具开发。
+电力交易数据分析工程师 · 北京。专注广西电力市场：现货 / 中长期 / 结算策略的量化分析与工具开发。
 
 > Power-trading data analyst based in Guangzhou, China. I build tools for electricity-market analysis (spot, medium/long-term, settlement) and general engineering.
 
